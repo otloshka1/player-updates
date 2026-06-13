@@ -1,1 +1,1 @@
-{"version": "1.8.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Закрытие не снимает лимитки; заявки переживают перемотку; строки записи с +; цвет профиля; толстый уровень; ручной ввод времени; шаг перемотки 10с-5м; убран x10"}
+{"version": "1.9.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Защита кода (обфускация); удобная строка записи; закрытие снимает заявки; цвет цифр профиля; Windows-иконка"}

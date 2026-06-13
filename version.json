@@ -1,1 +1,1 @@
-{"version": "1.7.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Круглые числа на оси графика; плотности в лотах/долларах; цвет уровней; инверсия колеса сжатия; тема Океан"}
+{"version": "1.8.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Закрытие не снимает лимитки; заявки переживают перемотку; строки записи с +; цвет профиля; толстый уровень; ручной ввод времени; шаг перемотки 10с-5м; убран x10"}

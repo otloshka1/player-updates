@@ -1,1 +1,1 @@
-{"version": "2.5.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Ресайз пристыкованного графика; запись спотов Gate/Bitget/KuCoin; убрана пустая колонка заявок в стакане"}
+{"version": "2.6.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Импорт спотов Bybit/OKX; перемещение уровней и наклонок; стоп в безубыток (B); массовое удаление сессий; сжатие у каждого стакана своё (кнопка ×N); лимитки колонкой слева, клик ставит/снимает; понятная ошибка для недоступных бирж"}

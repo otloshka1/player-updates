@@ -1,1 +1,1 @@
-{"version": "2.1.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Мультиселект бирж (импорт и запись); пресеты записи; ситуации-корзины (BTC+ETH+SOL+DOGE+XRP)"}
+{"version": "2.2.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Плавающие графики: несколько окон, перетаскивание куда угодно, ресайз, привязка к стакану, свой таймфрейм"}

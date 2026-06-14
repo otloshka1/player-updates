@@ -1,1 +1,1 @@
-{"version": "2.0.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Стоп-лосс reduce-only (без переоткрытия); размеры лоты/доллары; курсор на графике; убрана пустота у спреда"}
+{"version": "2.1.0", "zip": "https://raw.githubusercontent.com/otloshka1/player-updates/main/update.zip", "notes": "Мультиселект бирж (импорт и запись); пресеты записи; ситуации-корзины (BTC+ETH+SOL+DOGE+XRP)"}
